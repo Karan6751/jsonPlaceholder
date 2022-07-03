@@ -1,28 +1,28 @@
 [
-  {
-    "feed": {
-      "publisher": "Penguin",
-      "country": "ca"
-    },
-    "entry": [
-      {
-        "author": "Margaret Atwood",
-        "nationality": "Canadian"
+   {
+      "feed":{
+         "publisher":"Penguin",
+         "country":"ca"
       },
-      {
-        "author": "Dan Brown",
-        "nationality": "American"
+      "entry":[
+         {
+            "author":"Margaret Atwood",
+            "nationality":"Canadian"
+         },
+         {
+            "author":"Dan Brown",
+            "nationality":"American"
+         }
+      ]
+   },
+   {
+      "feed":{
+         "publisher":"Penguin",
+         "country":"ca"
+      },
+      "entry":{
+         "author":"Pierre Burton",
+         "nationality":"Canadian"
       }
-    ]
-  },
-  {
-    "feed": {
-      "publisher": "Penguin",
-      "country": "ca"
-    },
-    "entry": {
-      "author": "Pierre Burton",
-      "nationality": "Canadian"
-    }
-  }
+   }
 ]
